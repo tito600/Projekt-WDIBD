@@ -1,0 +1,100 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 918.22149632795481,
+            "y": 342.10122119851837
+          },
+          "nodeIndex": "Dimension City",
+          "nodeLineageTag": "1df4664e-c59f-4c26-936d-00516cf0cab7",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10,
+            "y": 324.80671237487735
+          },
+          "nodeIndex": "Dimension Customer",
+          "nodeLineageTag": "31a5d6f6-a398-4cef-b275-087468c1275e",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 193.3445575847436,
+            "y": 678.53864097826079
+          },
+          "nodeIndex": "Dimension Date",
+          "nodeLineageTag": "a5972f3d-e0c0-4ae8-8f6a-cb3e54ff739f",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 723.469058709489,
+            "y": 695.68060251976215
+          },
+          "nodeIndex": "Dimension Employee",
+          "nodeLineageTag": "10d9f073-7220-4e28-9922-2e7921cb575d",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 722.9709874332334,
+            "y": -10
+          },
+          "nodeIndex": "Dimension Stock Item",
+          "nodeLineageTag": "08e9db6e-2eca-422e-a432-b8c00d0ee87d",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 480.30115642587816,
+            "y": 342.16734009316406
+          },
+          "nodeIndex": "Fact Order",
+          "nodeLineageTag": "f628ebcb-9100-4e3a-98dc-6d53add014db",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Wszystkie tabele",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Wszystkie tabele",
+  "defaultDiagram": "Wszystkie tabele"
+}
